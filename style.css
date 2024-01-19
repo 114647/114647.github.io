@@ -115,3 +115,8 @@ h1 {
     background-color: rgba(0, 0, 0, 0.1);
 }
 /*########## voor het grootste deel is het een aangepaste versie van https://www.w3schools.com/css/css_dropdowns.asp ##########*/
+
+/*voor de tabel met de afbeeldingen*/
+td img {
+    max-width: 200px;
+}
