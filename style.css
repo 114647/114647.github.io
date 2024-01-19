@@ -50,6 +50,8 @@ h1 {
 #center-text {
     text-align: center;
     font-size: 150%;
+    width: 75%;
+    margin-left: 10%;
 }
 
 /*title bar voor de niet-home paginas*/
